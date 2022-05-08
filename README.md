@@ -1,4 +1,4 @@
 # testing-with-jtest
 A Jest + npm lab session
 
-Test
+Test, mera test
